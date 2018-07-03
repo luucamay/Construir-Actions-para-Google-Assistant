@@ -1,0 +1,7 @@
+Actions on Google es una plataforma de desarrollador que le permite crear software para ampliar la funcionalidad del Asistente de Google, el asistente personal virtual de Google, en más de 500 millones de dispositivos, incluidos altavoces inteligentes, teléfonos, automóviles, televisores, auriculares y más.
+
+Los usuarios recurren al Asistente de Google en una conversación para realizar tareas, como comprar alimentos o reservar un viaje (para obtener una lista completa de lo que es posible ahora, consulte el directorio de Acciones). Como desarrollador, puede usar Acciones en Google para crear y administrar fácilmente experiencias de conversación efectivas entre los usuarios y su propietario servicio de terceros.
+
+Este codelab es parte de un tutorial de varios módulos. Cada módulo se puede tomar de forma independiente o en secuencia de aprendizaje con otros módulos. En cada módulo, le proporcionaremos instrucciones de principio a fin sobre cómo crear Actions desde los requisitos de software hasta cómo probar su código. También enseñaremos los conceptos necesarios y las mejores prácticas para implementar Actions que brinden a los usuarios experiencias conversacionales de alta calidad.
+
+Este codelab cubre conceptos de nivel principiante para desarrollar con Actions on Google. No necesita tener ninguna experiencia previa con la plataforma para seguir este codelab.
